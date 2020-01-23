@@ -1,0 +1,16 @@
+{
+  "name": "Movie_Info_App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Movie_Info_App"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://HediKhalifa.github.io/Movie_Info_App",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}

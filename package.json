@@ -1,15 +1,22 @@
 {
-  "name": "Movie_Info_App",
+  "name": "MovieInfo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d Movie_Info_App"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HediKhalifa/Movie_Info_App.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://HediKhalifa.github.io/Movie_Info_App",
+  "bugs": {
+    "url": "https://github.com/HediKhalifa/Movie_Info_App/issues"
+  },
+  "homepage": "https://github.com/HediKhalifa/Movie_Info_App#readme",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
